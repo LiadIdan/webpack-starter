@@ -1,0 +1,21 @@
+# VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# Compiled Output
+/dist
+
+# Dependencies
+/node_modules
+
+# misc
+/.sass-cache
+npm-debug.log
+/typings
+
+# System Files
+.DS_Store
+Thumbs.db
